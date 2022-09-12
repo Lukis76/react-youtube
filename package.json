@@ -44,6 +44,6 @@
   "main": "postcss.config.js",
   "devDependencies": {},
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "lucas manoguerra",
+  "license": "MIT"
 }
