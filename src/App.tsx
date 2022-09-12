@@ -1,3 +1,7 @@
 export const App = () => {
-  return <div className='App'></div>
+  return (
+    <h1 className='font-bold text-indigo-900 grid place-content-center h-screen'>
+      toma toma
+    </h1>
+  )
 }
